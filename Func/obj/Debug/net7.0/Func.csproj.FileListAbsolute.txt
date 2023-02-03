@@ -1,0 +1,15 @@
+C:\Users\amole\source\repos\Func\Func\bin\Debug\net7.0\Func.exe
+C:\Users\amole\source\repos\Func\Func\bin\Debug\net7.0\Func.deps.json
+C:\Users\amole\source\repos\Func\Func\bin\Debug\net7.0\Func.runtimeconfig.json
+C:\Users\amole\source\repos\Func\Func\bin\Debug\net7.0\Func.dll
+C:\Users\amole\source\repos\Func\Func\bin\Debug\net7.0\Func.pdb
+C:\Users\amole\source\repos\Func\Func\obj\Debug\net7.0\Func.csproj.AssemblyReference.cache
+C:\Users\amole\source\repos\Func\Func\obj\Debug\net7.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amole\source\repos\Func\Func\obj\Debug\net7.0\Func.AssemblyInfoInputs.cache
+C:\Users\amole\source\repos\Func\Func\obj\Debug\net7.0\Func.AssemblyInfo.cs
+C:\Users\amole\source\repos\Func\Func\obj\Debug\net7.0\Func.csproj.CoreCompileInputs.cache
+C:\Users\amole\source\repos\Func\Func\obj\Debug\net7.0\Func.dll
+C:\Users\amole\source\repos\Func\Func\obj\Debug\net7.0\refint\Func.dll
+C:\Users\amole\source\repos\Func\Func\obj\Debug\net7.0\Func.pdb
+C:\Users\amole\source\repos\Func\Func\obj\Debug\net7.0\Func.genruntimeconfig.cache
+C:\Users\amole\source\repos\Func\Func\obj\Debug\net7.0\ref\Func.dll
